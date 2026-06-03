@@ -102,11 +102,66 @@
 <img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/ed73572d-ea56-4f72-b501-e859bc3732f2" />
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/72cd9cd5-1be4-40d8-8328-f6de962b4c87" />
 
+# sửa cho gafana cho biểu đồ thò vào web 
+## Kiểm tra ifluxdb 
+<img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/8ff7d684-4739-435c-8d09-1edb8e3983b3" />
+
+# Vào gafana 
+## save biểu đồ 
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/0e6569b2-a33b-4770-a9f6-7f4eabc8f98a" />
+
+<img width="1920" height="1023" alt="image" src="https://github.com/user-attachments/assets/f0d1c7a0-feb2-4e7c-ae2d-3b2a0ee8a9be" />
+
+## Lấy link iframe
+<img width="1910" height="1032" alt="image" src="https://github.com/user-attachments/assets/8d6b35e5-f1df-4d55-b2ad-e4016b9db32b" />
+<img width="1916" height="1034" alt="image" src="https://github.com/user-attachments/assets/b371e8e4-36e9-4317-814c-7c1ff8acc0d2" />
+# Mở file web sửa 
+<img width="1920" height="775" alt="image" src="https://github.com/user-attachments/assets/e9ed780e-7106-471b-be66-e91d75e62f72" />
+
+# Cho phép Grafana nhúng iframe
+
+<img width="1699" height="489" alt="image" src="https://github.com/user-attachments/assets/71dc4e03-f6a3-4070-b954-ddfc05f96cc9" />
+## Khởi động lại Grafana 
+<img width="1702" height="298" alt="image" src="https://github.com/user-attachments/assets/2adf48c9-5cde-4134-8d5a-a40cea6da292" />
+
+## Khởi động lại Nginx
+<img width="1692" height="274" alt="image" src="https://github.com/user-attachments/assets/bb786105-e6d1-4b58-8ac2-a7eb72109294" />
+
+# Kiểm tra
+<img width="1917" height="1029" alt="image" src="https://github.com/user-attachments/assets/27c85a28-0732-43ba-be90-2792ed2054fd" />
+
+# Chứng minh Alert hoạt động
+
+## Sửa Alert Check tạm thời
+## mở Alert Check
+<img width="1920" height="976" alt="image" src="https://github.com/user-attachments/assets/e0325518-69d6-4e2e-ac56-2b992ce45294" />
+<img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/b1d8062a-1c94-40dd-ae00-30cd0d24a2ca" />
+## Gửi cảnh báo về kết luận alert chạy ok 
+<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/3af48d65-0bf7-40ae-9d17-9585fe69d00c" />
 
 
+# Xuất và phục hồi Docker 
 
+## 1.Xuất toàn bộ image
 
+<img width="1692" height="386" alt="image" src="https://github.com/user-attachments/assets/4eea458f-8259-47d4-b489-22fc606bb5f3" />
 
+<img width="1699" height="280" alt="image" src="https://github.com/user-attachments/assets/ebc28cbf-ba2d-4d69-adf7-b10525845291" />
 
+## Dừng toàn bộ
+<img width="1694" height="416" alt="image" src="https://github.com/user-attachments/assets/ac56ea8d-440a-4e0a-bfee-5a304ecc0902" />
 
+## Load lại image
+
+<img width="1703" height="358" alt="image" src="https://github.com/user-attachments/assets/2c1ea023-50f9-4733-8c46-ad728538307b" />
+
+## Khởi động lại
+
+<img width="1698" height="475" alt="image" src="https://github.com/user-attachments/assets/0a9dce39-f516-4541-a9cc-008a7d3f344e" />
+
+# mở lại web xem khôi phục lại được chưa 
+
+<img width="1920" height="1029" alt="image" src="https://github.com/user-attachments/assets/79f2ff57-b4cd-466d-9e51-49e2ad74775c" />
+
+# đã khôi phục thành công 
 
