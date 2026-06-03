@@ -46,14 +46,61 @@
 
 # F — CẤU HÌNH NODE-RED
 
+<img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/e7448293-5ff5-4ef1-8e0a-a7df0211d1d5" />
+<img width="1920" height="1037" alt="image" src="https://github.com/user-attachments/assets/e99c8b15-5e12-42fe-92a7-e4d374d54b3a" />
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/1f261289-db2d-488f-808f-4deb03ac32d7" />
 
+# Luồng Node-RED cần tạo
 
+<img width="1645" height="655" alt="image" src="https://github.com/user-attachments/assets/3709c497-99de-433b-b481-513b13921434" />
+ # cấu hình 
+ <img width="1920" height="992" alt="image" src="https://github.com/user-attachments/assets/24263689-b50e-4bd5-8097-de75f29369a4" />
+<img width="1912" height="1027" alt="image" src="https://github.com/user-attachments/assets/9041dbb9-7d6c-4bf5-90cd-a28aba6fb826" />
+<img width="1915" height="1020" alt="image" src="https://github.com/user-attachments/assets/53a3fe74-04f6-4ce1-96d1-64f5f5a8acfb" />
+<img width="1920" height="1023" alt="image" src="https://github.com/user-attachments/assets/c8c42ffb-e83f-42c5-afa0-0b27ef14b011" />
+<img width="1911" height="1023" alt="image" src="https://github.com/user-attachments/assets/94443f99-7ee8-4855-9448-3d8344409f54" />
+<img width="1078" height="938" alt="image" src="https://github.com/user-attachments/assets/3de45415-5870-4ef2-9eeb-7409f4954684" />
+# funcation 3
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/57511042-be9c-4fd6-b0a6-8cb1477b01b1" />
+# Telegram Sender
+<img width="1920" height="1022" alt="image" src="https://github.com/user-attachments/assets/e51d3daf-3f62-4e0b-bedd-33e6d8071712" />
+# deploy chạy 
+<img width="1920" height="1034" alt="image" src="https://github.com/user-attachments/assets/d8e636dd-cb96-4fd5-821d-bdaf90564241" />
+# kiểm tra xem có dữ liệu chưa 
+<img width="1912" height="1031" alt="image" src="https://github.com/user-attachments/assets/07bb1bde-ee0b-4aaa-98d6-e0e5421c80ec" />
 
+# Test API Flask
+<img width="1920" height="1033" alt="image" src="https://github.com/user-attachments/assets/15682242-bc8d-4ee8-b040-648876d9a990" />
 
+# Kiểm tra web Nginx
+<img width="1920" height="1033" alt="image" src="https://github.com/user-attachments/assets/312575c3-0543-4a6c-a526-ed6c56b512d3" />
 
+# Làm Grafana
+<img width="1920" height="1036" alt="image" src="https://github.com/user-attachments/assets/114e6b25-cd3b-4da6-acf3-5cef98df708c" />
+## cấu hình gafana
+<img width="1920" height="1029" alt="image" src="https://github.com/user-attachments/assets/c3bfb1c1-5246-471a-80c3-959b2a5fc9ef" />
 
+<img width="1920" height="1029" alt="image" src="https://github.com/user-attachments/assets/25eec4e1-26dc-446c-896d-1409506490d5" />
 
+## Tạo dashboard
+<img width="1920" height="1024" alt="image" src="https://github.com/user-attachments/assets/60dfa1e7-9289-4e48-8088-dd296f31a327" />
+<img width="1918" height="1030" alt="image" src="https://github.com/user-attachments/assets/dcc9e454-1799-44a5-8feb-0b0e3c59b63e" />
+<img width="1920" height="1025" alt="image" src="https://github.com/user-attachments/assets/3ad3e054-1085-42a7-be00-c5bca52de1f0" />
 
+# Test Telegram 
+# tạo nhóm 
+<img width="1917" height="1035" alt="image" src="https://github.com/user-attachments/assets/d972497c-89fd-42a9-835b-bb30297103c1" />
+
+## add bot và bật quyền cho nó 
+<img width="1917" height="1034" alt="image" src="https://github.com/user-attachments/assets/64cf126a-cd86-4f83-9249-ed5075cc5dff" />
+
+## test kết quả trả về json 
+<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/868b492a-e65b-4abd-ba25-a99e2c2b1f63" />
+## lấy id nhóm sửa lại funcation 
+<img width="1920" height="973" alt="image" src="https://github.com/user-attachments/assets/351c2da2-0d1e-484f-bedd-616903a70e30" />
+# nhấn chạy để gửi tin nhắn về tele
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/ed73572d-ea56-4f72-b501-e859bc3732f2" />
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/72cd9cd5-1be4-40d8-8328-f6de962b4c87" />
 
 
 
