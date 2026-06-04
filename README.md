@@ -3,6 +3,45 @@
 # Lớp: K58.KTP
 # MSV: K225480106068
 
+# LÝ THUYẾT 
+# 1. Docker là gì?
+
+## Docker là nền tảng dùng để đóng gói, triển khai và chạy ứng dụng trong các container. Container chứa ứng dụng cùng các thư viện, môi trường chạy, file cấu hình cần thiết để ứng dụng có thể chạy ổn định trên nhiều máy khác nhau.
+
+# 2. Các keyword thường dùng trong docker-compose.yml
+## services: khai báo các container cần chạy trong hệ thống.
+
+## image: chỉ định image dùng để tạo container.
+
+## build: build image từ Dockerfile trong thư mục dự án.
+
+## container_name: đặt tên cụ thể cho container.
+
+## ports: ánh xạ cổng từ máy host vào container. Nghĩa là truy cập cổng 5000 của máy Ubuntu sẽ đi vào cổng 5000 trong container.
+
+## environment: khai báo biến môi trường cho container.
+
+## volumes: gắn thư mục hoặc volume để lưu dữ liệu bền vững.
+
+## Nếu container bị xóa, dữ liệu database vẫn còn ở thư mục mariadb_data.
+
+## networks: khai báo mạng dùng chung giữa các container.
+
+## Nhờ cùng network, Flask có thể gọi MariaDB bằng tên container hoặc tên service.
+
+## depends_on: quy định container nào cần khởi động trước.
+
+## restart: cấu hình tự khởi động lại container khi lỗi hoặc khi bật máy.
+
+## command: ghi đè lệnh chạy mặc định của container.
+
+## working_dir: đặt thư mục làm việc bên trong container.
+
+## networks: phần khai báo mạng ở cuối file compose.
+
+## volumes: phần khai báo volume ở cuối file compose.
+
+# THỰC HÀNH 
 # A — CHUẨN BỊ THƯ MỤC
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/adf572e6-093b-4d0b-a9d0-49390216f2be" />
 
